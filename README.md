@@ -8,7 +8,7 @@
 
 Coastal Guitar Tuition is a business based in North Wales in the coastal town of Prestatyn. The primary business goal is to provide guitar lessons to the local community, providing lessons to students of all ages and abilities. The business also provides guitar maintenance and has a fully functional recording studio which is open not only to students of Coastal Guitars, but to the wider community as well.
 
-## **Planning stage**
+## **UX Planning stage**
 
 ## Target Audiences
 
@@ -113,7 +113,7 @@ Mobile view expanded:
 ![Home Hero Image](screenshots/main-hero-image.png)
 
 * This image was picked for several reasons. Firstly the guitar is a Fender Stratocaster, arguably the most famous and recognisable guitar on the planet. Most people, even if they dont know the make and model of the guitar, they know it is a guirar. Scondly the clearly links to what the site is trying to promote and offer, this being guitar lessons. Thirdly, the colour of the guitar is that of the the company colours. The image is also a road worn guitar, its not shiny and new and shows a guitar that has had many hours of playing and enjoyment.
-* The image scales down nicely on smaller devices and you can still see the body and clearly identify what it is.
+* The image scales down nicely on mobile devices. Whilst i've not created a media query for tablets the image responds and displays nicely and you can still see the body of the guitar and clearly identify what it is.
 
 ## Home - Welcome Message
 
@@ -172,7 +172,7 @@ There are several enhancements or changes I would make to the website to improve
 ## **Testing and Validation**
 
 * Tested on Chrome, Safari and Microsoft Edge desktop version browsers
-* Chrome Developer Tools are used to test the responsiveness on: Desktop, Laptop, Moto G4, Galaxy S5, iPhone 5/SE, iPhone 6,7,8, iPhone 6,7,8 Plus, iPad, iPad Pro, Galaxy Fold
+* Chrome Developer Tools are used to test the responsiveness on: Desktop, Laptop, iPhone XE, XR, X 12 Pro, Samuung Galaxy S8, Galaxy S20 Ultra, Galaxy fold, iPad, Ipad Mini, Ipad Air and iPad Pro.
 * All links to external pages open and all links within the website work as designed.
 
 ## Validating HTML
@@ -226,6 +226,33 @@ The W3C CSS Validation Service was used to check for CSS coding errors.
 ![index page](screenshots/lighthouse-studio.png)
 
 Overall performance evaluated by lighthouse is very good and evetyhing is withing the green range. There was initially and issue with the index page returning a performance value of 72. Lighthouse indicated it was an issue with Font Awesome icons which were on the headings First Lesson Feee and Everyone Welcome. I immediately decided to remove these as the icons added nothing extra that the pictures above. Immediately upon removing them and re-running throught lighthouse the perfomance increased to 92% which is a good acceptable figure.
+
+## **User Story Testing**
+
+## Testing User Stories from UX planning**
+
+1. As a First Time Visitor, I want to be able to see the purpose of the site.
+   
+* As soon as you land on the index page you are greeted with the words 'Welcome To Coastal Guitar Tuition'. There is zero ambiguity in this welcome statement and whet you are being welcomed to. The company logo is also in to top left hand corner which also states the company name. Scrolling fown the home age, the last section 'What We Have To Offer', is clear and concise as to ther services being provided.
+  
+2. As a First Time Visitor, I want to be able to navigate throughout the site with ease.
+
+* Navigation throught the site, whether on mobile or desktop/laptp is straight forward. The utilisation of a bootstrap nabar allows this to happen with ease. Links are easy to see, are clearly labelled and every page is uniform in relation to the nvvigation links in the navbar.
+
+3. As a First Time Visitor, I want to be able to find the services you provide with ease.
+ 
+* Services are briefly detailed on the home page. The user can either use the nav bar to find out additonal information about the services provided or there is a 'Read More' button for each service on the home page.
+   
+4. As a First Time Visitor, I want to be able to find a price list with ease.
+
+* Price lists are located on thier relative pages. Prices for tuition can be found on the tuition page prices for guitar maintenance can be located on in the maintenance page. Prices are listed in bullet form for ease of reading.
+  
+5. As a First Time Visitor, I want to be able to contact you with ease
+
+* Links to all social media accounts are in the footer of every page. Users can contact any any social media platform. Alternatively the phone number and address are provided on the studio page.
+
+6. As a First Time Visitor, I want to be able to visit/follow you on social media
+* As 
 
 ## Bugs
 
