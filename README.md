@@ -1,6 +1,6 @@
 # **Coastal Guitar Tuition**
 
-[View the live project here](https://dan555-33.github.io/coastal-guitar-tuition/index.html)
+[View the deployed website here](https://dan555-33.github.io/coastal-guitar-tuition/index.html)
 
 ![Website shown on multiple devices](screenshots/all-devices.png)
 
@@ -77,3 +77,29 @@ The Roboto font is the main font used throughout the whole website with Sans Ser
 ## **Imagery**
 
 Imagery is important, it’s what the user is immediately drawn to. The large hero image has been chosen to capture the user’s attention. It has a clear subject matter, that being the guitar. It is also in colours which direcly link to the company’s colours. The imagery used throughout the site relates to guitars, guitar tuition and the studio.
+
+## **Current Features Common to all pages**
+
+### Navigation Bar
+
+Desktop view:
+![Navbar desktop](screenshots/nav-desktop.png)
+
+Mobile view:
+![Navbar mobile](screenshots/nav-mobile.png)
+
+Mobile view expanded:
+![Navbar mobile expanded](screenshots/nav-mobile-expanded.png)
+
+* Om each page the user is given links to every page on the website, thse links stay in the same order and the current selected page name is darker page to show the user which page they are currently on.
+* Each page option is clearly labelled easy to read and the name corresponds to the page content.
+* On mobile screen the page links are reduced to a hamburger menu to optimize screen space and the user experience.
+* The company logo is also alink to the home page on every page.
+* The off-white background helps the green of the company logo as well as the links in the navigation stand out and also makes them easy to read.
+
+### Footer
+
+![Footer](screenshots/footer.png)
+
+* The footer is very minimalistic. The footer has links to the four main social networks, Facebook, Instagram, YouTube and Twitter. It uses their logogs rather than their names with are univerally instantaly recognisable.
+* The icons are in the same green #00A3A3 colour as as the rest of the website to keep it uniform and to enhance the compnays colours and identity.
