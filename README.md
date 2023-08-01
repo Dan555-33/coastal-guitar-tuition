@@ -175,23 +175,23 @@ There are several enhancements or changes I would make to the website to improve
 
 The W3C Markup Validation Service was used to check for html coding errors within the site. The resutls are detailed below:
 
-* [HTML](https://validator.w3.org/#validate_by_uri)- Each page was check and validaed by by URI.
+* [HTML](https://validator.w3.org/#validate_by_uri)- Each page was checked and validated by by URI.
 
 * index.html
 
-(screenshots/html-homepage.png)
+![index page](screenshots/html-homepage.png)
 
 * tuition.html
 
-(screenshots/html-tuition.png)
+![tuition page](screenshots/html-tuition.png)
 
 * maintenance.html
 
-(screenshots/html-maintenance.png)
+![maintenance page](screenshots/html-maintenance.png)
 
 * studio.html
 
-(screenshots/html-studio.png)
+![studio page](screenshots/html-studio.png)
 
 ## Validating CSS
 
@@ -199,6 +199,6 @@ The W3C CSS Validation Service was used to check for CSS coding errors.
 
 * [CSS](https://jigsaw.w3.org/css-validator/#validate_by_input)- Each page was check and validaed by by direct input.
 
-(screenshots/css.png)
+![CSS](screenshots/css.png)
 
 
