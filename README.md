@@ -68,7 +68,7 @@ Studio Mobile View
 
 ### **Color Scheme**
 
-The main colours used throughout the site are surf green and white as it is the colour of the company’s logo. White text against the green background provides a good contract and allows the text to be easy to read.
+The main colours used throughout the site are surf green and white as it is the colour of the company’s logo. White text against the green background provides a good contract and allows the text to be easy to read. The business is also very close to the beech front and the colour choices have been chosen to reflect this.
 
 ## **Typography**
 
@@ -120,9 +120,59 @@ Mobile view expanded:
 * Included is a welcome message to the website. With two further headings and pictures underneath.
 * The paragprah's are short and quickly introduce what the company is offering. It informs the user that their first lesson is free and that everyone is welcome to study at Coastal Guitars. Having the first lesson free is trying to show the user we are passionate about guitar teaching and not merely motivated by money, but for the love and passion for the instrument.
 
-### What We Have To Offer
+### Home - What We Have To Offer
 
 ![What We Have to Offer](screenshots/what-we-have-to-offer.png)
 
 * This section of the Home page provides a quick overview of what the business has to offer. Each section had a brief description of what is on offer with an image that corresponds. There is also a link below the images to take the user to the corresponding page on the website to find out more information about that service.
 * The green section is a matches the theme throughout the website and is consistenct with the companys branding.
+* The images have a white border making them standout against the green background.
+* The text is in this section is white, which is in contrast to the green background making it easy to read.
+
+### **Future Enhancements**
+
+There are several enhancements or changes I would make to the website to improve it
+
+* A booking system, to allow people to book their first lesson
+* A contact form so people can request a call or email back to request more information
+* I am unhappy with the layout of the maintenance page. Ideally I would have liked images that show guitars being worked on. However, selection was limited without paying for a creating the images myself.
+* The maintenance page also strays from the layout of the rest of the site. I would potentially rework this page to improve its aesthetics.
+
+### Technologies Used
+
+## Languages
+
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+## Frameworks, Libraries & Programs Used
+
+* [Google Fonts](https://fonts.google.com/) - provides the use of the Roboto font for this website.
+
+* [Font Awesome](https://fontawesome.com/) - used for the social network icons.
+
+* [Github](https://github.com/Dan555-33/coastal-guitar-tuition) - was used to store this website and all related documents.
+
+* [CodeAnywhere](https://app.codeanywhere.com/) - used to code the website.
+
+* [Balsamiq](https://balsamiq.com/) - used to create the wireframes found in the readme.
+
+* [Unsplash photo](https://unsplash.com/) - all images on the website are taken from unsplash and are free to use.
+
+* [Google maps](https://www.google.com/maps) - was used to import and embed the business location.
+
+* [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/) - was used for a lot of elements on the site, including the navbar and responsive containers.
+
+* [Bytes](https://ui.dev/amiresponsive) - to see the site on different screen size and screenshot used in README.
+
+
+### Testing
+
+- Tested on Chrome, Safari and Microsoft Edge desktop version browsers
+* Chrome Developer Tools are used to test the responsiveness on: Desktop, Laptop, Moto G4, Galaxy S5, iPhone 5/SE, iPhone 6,7,8, iPhone 6,7,8 Plus, iPad, iPad Pro, Galaxy Fold
+
+## Validating
+
+The W3C Markup Validator and W3C CSS Validator Services were used to check my code for syntax errors in this project.
+
+* [HTML](https://validator.w3.org/#validate_by_input)- I checked each page by direct input method on HTML validator site
