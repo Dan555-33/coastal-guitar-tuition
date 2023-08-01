@@ -171,8 +171,34 @@ There are several enhancements or changes I would make to the website to improve
 - Tested on Chrome, Safari and Microsoft Edge desktop version browsers
 * Chrome Developer Tools are used to test the responsiveness on: Desktop, Laptop, Moto G4, Galaxy S5, iPhone 5/SE, iPhone 6,7,8, iPhone 6,7,8 Plus, iPad, iPad Pro, Galaxy Fold
 
-## Validating
+## Validating HTML
 
-The W3C Markup Validator and W3C CSS Validator Services were used to check my code for syntax errors in this project.
+The W3C Markup Validation Service was used to check for html coding errors within the site. The resutls are detailed below:
 
-* [HTML](https://validator.w3.org/#validate_by_input)- I checked each page by direct input method on HTML validator site
+* [HTML](https://validator.w3.org/#validate_by_uri)- Each page was check and validaed by by URI.
+
+* index.html
+
+(screenshots/html-homepage.png)
+
+* tuition.html
+
+(screenshots/html-tuition.png)
+
+* maintenance.html
+
+(screenshots/html-maintenance.png)
+
+* studio.html
+
+(screenshots/html-studio.png)
+
+## Validating CSS
+
+The W3C CSS Validation Service was used to check for CSS coding errors.
+
+* [CSS](https://jigsaw.w3.org/css-validator/#validate_by_input)- Each page was check and validaed by by direct input.
+
+(screenshots/css.png)
+
+
