@@ -10,13 +10,13 @@ Coastal Guitar Tuition is a business based in North Wales in the coastal town of
 
 ## **Planning stage**
 
-### **Target Audiences**
+## Target Audiences
 
 * Users interested or wanting to learn to play guitar
 * Users interested in guitar maintenance and setup
 * Users wanting to use the studio record music
 
-### **User Stories**
+## User Stories
 
 * As a First Time Visitor, I want to be able to see the purpose of the site.
 * As a First Time Visitor, I want to be able to navigate throughout the site with ease.
@@ -25,14 +25,14 @@ Coastal Guitar Tuition is a business based in North Wales in the coastal town of
 * As a First Time Visitor, I want to be able to contact you with ease
 * As a First Time Visitor, I want to be able to visit/follow you on social media
 
-### **Site Aims**
+## Site Aims
 
 * To inform the user about Coastal Guitar Tuition and its services
 * To have a website that is simple to use and easy to navigate
 * To have a list of prices for guitar lessons
 * To have social media links in the footer of each page. Thus enables the user to follow Coastal Guitars via the various social networks and be up to date with the latest information. It also gives them a platform to reach out on
 
-### **Wireframes**
+## **Wireframes**
 
 Home Page Desktop View
 
@@ -66,21 +66,23 @@ Studio Mobile View
 
 ![Studio Page Mobile Wireframe](wireframes/studio-mobile.png)
 
-### **Color Scheme**
+## **Design**
+
+## Color Scheme
 
 The main colours used throughout the site are surf green and white as it is the colour of the company’s logo. White text against the green background provides a good contract and allows the text to be easy to read. The business is also very close to the beech front and the colour choices have been chosen to reflect this.
 
-## **Typography**
+## Typography
 
 The Roboto font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly from google fonts. Roboto a clean, friendly font used often used in web development, meaning it is aesthetically pleasing and suitable choice for this site.
 
-## **Imagery**
+## Imagery
 
 Imagery is important, it’s what the user is immediately drawn to. The large hero image has been chosen to capture the user’s attention. It has a clear subject matter, that being the guitar. It is also in colours which direcly link to the company’s colours. The imagery used throughout the site relates to guitars, guitar tuition and the studio.
 
 ## **Current Features Common to all pages**
 
-### Navigation Bar
+## Navigation Bar
 
 Desktop view:
 ![Navbar desktop](screenshots/nav-desktop.png)
@@ -97,7 +99,7 @@ Mobile view expanded:
 * The company logo is also alink to the home page on every page.
 * The off-white background helps the green of the company logo as well as the links in the navigation stand out and also makes them easy to read.
 
-### Footer
+## Footer
 
 ![Footer](screenshots/footer.png)
 
@@ -106,21 +108,21 @@ Mobile view expanded:
 
 ## **Other Features**
 
-### Home - Hero Image
+## Home - Hero Image
 
 ![Home Hero Image](screenshots/main-hero-image.png)
 
 * This image was picked for several reasons. Firstly the guitar is a Fender Stratocaster, arguably the most famous and recognisable guitar on the planet. Most people, even if they dont know the make and model of the guitar, they know it is a guirar. Scondly the clearly links to what the site is trying to promote and offer, this being guitar lessons. Thirdly, the colour of the guitar is that of the the company colours. The image is also a road worn guitar, its not shiny and new and shows a guitar that has had many hours of playing and enjoyment.
 * The image scales down nicely on smaller devices. Whilst you can't see the whole guitar, you can still see the body and clearly identify what it is.
 
-### Home - Welcome Message
+## Home - Welcome Message
 
 ![Home Welcome Message](screenshots/welcome-section.png)
 
 * Included is a welcome message to the website. With two further headings and pictures underneath.
 * The paragprah's are short and quickly introduce what the company is offering. It informs the user that their first lesson is free and that everyone is welcome to study at Coastal Guitars. Having the first lesson free is trying to show the user we are passionate about guitar teaching and not merely motivated by money, but for the love and passion for the instrument.
 
-### Home - What We Have To Offer
+## Home - What We Have To Offer
 
 ![What We Have to Offer](screenshots/what-we-have-to-offer.png)
 
@@ -129,7 +131,7 @@ Mobile view expanded:
 * The images have a white border making them standout against the green background.
 * The text is in this section is white, which is in contrast to the green background making it easy to read.
 
-### **Future Enhancements**
+## Future Enhancements
 
 There are several enhancements or changes I would make to the website to improve it
 
@@ -138,7 +140,7 @@ There are several enhancements or changes I would make to the website to improve
 * I am unhappy with the layout of the maintenance page. Ideally I would have liked images that show guitars being worked on. However, selection was limited without paying for a creating the images myself.
 * The maintenance page also strays from the layout of the rest of the site. I would potentially rework this page to improve its aesthetics.
 
-### Technologies Used
+## **Technologies Used**
 
 ## Languages
 
@@ -165,11 +167,13 @@ There are several enhancements or changes I would make to the website to improve
 
 * [Bytes](https://ui.dev/amiresponsive) - to see the site on different screen size and screenshot used in README.
 
+* [Adobe Express](https://express.adobe.com/) - was used to design the company logo.
 
-### Testing
+## **Testing and Validation**
 
-- Tested on Chrome, Safari and Microsoft Edge desktop version browsers
+* Tested on Chrome, Safari and Microsoft Edge desktop version browsers
 * Chrome Developer Tools are used to test the responsiveness on: Desktop, Laptop, Moto G4, Galaxy S5, iPhone 5/SE, iPhone 6,7,8, iPhone 6,7,8 Plus, iPad, iPad Pro, Galaxy Fold
+* All links to external pages open and all links within the website work as designed.
 
 ## Validating HTML
 
@@ -191,7 +195,7 @@ The W3C Markup Validation Service was used to check for html coding errors withi
 
 * studio.html
 
-![Studio page](screenshots/html-maintenance.png)
+![Studio page](screenshots/html-studio.png)
 
 ## Validating CSS
 
@@ -201,4 +205,50 @@ The W3C CSS Validation Service was used to check for CSS coding errors.
 
 ![CSS](screenshots/css.png)
 
+## Lighthouse
+
+* Each page was test through the lighthouse tool. The results are detailed below:
+
+* index.html
+  
+![index page](screenshots/lighthouse-index.png)
+
+* tuition.html
+  
+![index page](screenshots/lighthouse-tuition.png)
+
+* maintenance.html
+  
+![index page](screenshots/lighthouse-maintenance.png)
+
+* studio.html
+  
+![index page](screenshots/lighthouse-studio.png)
+
+Overall performance evaluated by lighthouse is very good and evetyhing is withing the green range. There was initially and issue with the index page returning a performance value of 72. Lighthouse indicated it was an issue with Font Awesome icons which were on the headings First Lesson Feee and Everyone Welcome. I immediately decided to remove these as the icons added nothing extra that the pictures above. Immediately upon removing them and re-running throught lighthouse the perfomance increased to 92% which is a good acceptable figure.
+
+## Bugs
+
+* There is currently one issue I have identified with the site. When switching to mobile on tuition.html there is a spacing issue under the heading Beginners and Advanced Students Welcome. The image dispears as intended to have a better user experience but it appears to leave a larger than intended space between the heading and the paragraph underneath. This can be seen in the picture below.
+
+![tuition page mobile](screenshots/bug1.png)
+
+## **Deployment**
+
+The site was deployed on GitHub pages with the following procedure:
+
+1. From the project's [repository](https://github.com/Dan555-33/coastal-guitar-tuition), go to the **Settings** tab.
+2. From the left-hand menu, select the **Pages** tab.
+3. Under the **Source** section, select **Deploy from a branch** and then the **Main** branch from the drop-down menu and click **Save**.
+4. A message will be displayed to indicate a successful deployment to GitHub pages and a link to the live site is provided which can be found [here](https://dan555-33.github.io/coastal-guitar-tuition/).
+
+## **Credits**
+
+## Media
+
+* All images were taken from [Unsplash photo](https://unsplash.com/)
+
+## Acknowledgements
+
+* I would like to give a big thank you to Iris Smok, who has been incredibly supportive and helpful throughout the project.
 
