@@ -229,30 +229,43 @@ Overall performance evaluated by lighthouse is very good and evetyhing is within
 
 ## **User Story Testing**
 
-## Testing User Stories from UX planning**
+## Testing User Stories from UX planning
 
 1. As a First Time Visitor, I want to be able to see the purpose of the site.
    
 * As soon as you land on the index page you are greeted with the words 'Welcome To Coastal Guitar Tuition'. There is zero ambiguity in this welcome statement and whet you are being welcomed to. The company logo is also in to top left hand corner which also states the company name. Scrolling fown the home age, the last section 'What We Have To Offer', is clear and concise as to ther services being provided.
+
+![Home Page purpose of website](screenshots/user-test-1.png)
   
 2. As a First Time Visitor, I want to be able to navigate throughout the site with ease.
 
-* Navigation throught the site, whether on mobile or desktop/laptp is straight forward. The utilisation of a bootstrap nabar allows this to happen with ease. Links are easy to see, are clearly labelled and every page is uniform in relation to the nvvigation links in the navbar.
+* Navigation throught the site, whether on mobile or desktop/laptop is straight forward. The utilisation of a bootstrap nabar allows this to happen with ease. Links are easy to see, are clearly labelled and every page is uniform in relation to the navigation links in the navbar.
+
+![Navbar image](screenshots/user-test-2.png)
 
 3. As a First Time Visitor, I want to be able to find the services you provide with ease.
  
 * Services are briefly detailed on the home page. The user can either use the nav bar to find out additonal information about the services provided or there is a 'Read More' button for each service on the home page.
+
+![Navbar image](screenshots/user-test-3.png)
    
 4. As a First Time Visitor, I want to be able to find a price list with ease.
 
 * Price lists are located on thier relative pages. Prices for tuition can be found on the tuition page prices for guitar maintenance can be located on in the maintenance page. Prices are listed in bullet form for ease of reading.
+
+![Navbar image](screenshots/user-test-4.png)
   
 5. As a First Time Visitor, I want to be able to contact you with ease
 
 * Links to all social media accounts are in the footer of every page. Users can contact any any social media platform. Alternatively the phone number and address are provided on the studio page.
 
+![Navbar image](screenshots/user-test-5.png)
+
 6. As a First Time Visitor, I want to be able to visit/follow you on social media
-* As 
+
+* Social media links to Twiiter, Facebook, YouTube and Instgram are in the footer of every page. The Icons are universally and instantly recogniseable. The studio page also encourges users to reach out on social media.
+
+![Navbar image](screenshots/user-test-6.png)
 
 ## Bugs
 
