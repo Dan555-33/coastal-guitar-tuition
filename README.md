@@ -91,7 +91,7 @@ Mobile view:
 Mobile view expanded:
 ![Navbar mobile expanded](screenshots/nav-mobile-expanded.png)
 
-* Om each page the user is given links to every page on the website, thse links stay in the same order and the current selected page name is darker page to show the user which page they are currently on.
+* On each page the user is given links to every page on the website, thse links stay in the same order and the current selected page name is darker page to show the user which page they are currently on.
 * Each page option is clearly labelled easy to read and the name corresponds to the page content.
 * On mobile screen the page links are reduced to a hamburger menu to optimize screen space and the user experience.
 * The company logo is also alink to the home page on every page.
@@ -102,4 +102,27 @@ Mobile view expanded:
 ![Footer](screenshots/footer.png)
 
 * The footer is very minimalistic. The footer has links to the four main social networks, Facebook, Instagram, YouTube and Twitter. It uses their logogs rather than their names with are univerally instantaly recognisable.
-* The icons are in the same green #00A3A3 colour as as the rest of the website to keep it uniform and to enhance the compnays colours and identity.
+* The icons are in the same green #00A3A3 colour as as the rest of the website to keep it uniform with the companys branding further enhancing the compnays colours and identity.
+
+## **Other Features**
+
+### Home - Hero Image
+
+![Home Hero Image](screenshots/main-hero-image.png)
+
+* This image was picked for several reasons. Firstly the guitar is a Fender Stratocaster, arguably the most famous and recognisable guitar on the planet. Most people, even if they dont know the make and model of the guitar, they know it is a guirar. Scondly the clearly links to what the site is trying to promote and offer, this being guitar lessons. Thirdly, the colour of the guitar is that of the the company colours. The image is also a road worn guitar, its not shiny and new and shows a guitar that has had many hours of playing and enjoyment.
+* The image scales down nicely on smaller devices. Whilst you can't see the whole guitar, you can still see the body and clearly identify what it is.
+
+### Home - Welcome Message
+
+![Home Welcome Message](screenshots/welcome-section.png)
+
+* Included is a welcome message to the website. With two further headings and pictures underneath.
+* The paragprah's are short and quickly introduce what the company is offering. It informs the user that their first lesson is free and that everyone is welcome to study at Coastal Guitars. Having the first lesson free is trying to show the user we are passionate about guitar teaching and not merely motivated by money, but for the love and passion for the instrument.
+
+### What We Have To Offer
+
+![What We Have to Offer](screenshots/what-we-have-to-offer.png)
+
+* This section of the Home page provides a quick overview of what the business has to offer. Each section had a brief description of what is on offer with an image that corresponds. There is also a link below the images to take the user to the corresponding page on the website to find out more information about that service.
+* The green section is a matches the theme throughout the website and is consistenct with the companys branding.
