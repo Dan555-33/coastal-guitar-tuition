@@ -179,19 +179,19 @@ The W3C Markup Validation Service was used to check for html coding errors withi
 
 * index.html
 
-![index page](screenshots/html-homepage.png)
+![Index page](screenshots/html-homepage.png)
 
 * tuition.html
 
-![tuition page](screenshots/html-tuition.png)
+![Tuition page](screenshots/html-tuition.png)
 
 * maintenance.html
 
-![maintenance page](screenshots/html-maintenance.png)
+![Maintenance page](screenshots/html-maintenance.png)
 
 * studio.html
 
-![studio page](screenshots/html-studio.png)
+![Studio page](screenshots/html-maintenance.png)
 
 ## Validating CSS
 
