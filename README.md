@@ -113,7 +113,7 @@ Mobile view expanded:
 ![Home Hero Image](screenshots/main-hero-image.png)
 
 * This image was picked for several reasons. Firstly the guitar is a Fender Stratocaster, arguably the most famous and recognisable guitar on the planet. Most people, even if they dont know the make and model of the guitar, they know it is a guirar. Scondly the clearly links to what the site is trying to promote and offer, this being guitar lessons. Thirdly, the colour of the guitar is that of the the company colours. The image is also a road worn guitar, its not shiny and new and shows a guitar that has had many hours of playing and enjoyment.
-* The image scales down nicely on smaller devices. Whilst you can't see the whole guitar, you can still see the body and clearly identify what it is.
+* The image scales down nicely on smaller devices and you can still see the body and clearly identify what it is.
 
 ## Home - Welcome Message
 
