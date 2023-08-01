@@ -40,7 +40,7 @@ Home Page Desktop View
 
 Home Page Mobile
 
-![Home Page Mobile Wireframe](wireframes/inded-mobile.png)
+![Home Page Mobile Wireframe](wireframes/index-mobile.png)
 
 Tuition Desktop View
 
@@ -68,4 +68,12 @@ Studio Mobile View
 
 ### **Color Scheme**
 
-The main colours used throughout the site is surf green and white as it is the colour of the company’s logo. White text against the green background provides a good contract and allows the text to be easy to read.
+The main colours used throughout the site are surf green and white as it is the colour of the company’s logo. White text against the green background provides a good contract and allows the text to be easy to read.
+
+## **Typography**
+
+The Roboto font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly from google fonts. Roboto a clean, friendly font used often used in web development, meaning it is aesthetically pleasing and suitable choice for this site.
+
+## **Imagery**
+
+Imagery is important, it’s what the user is immediately drawn to. The large hero image has been chosen to capture the user’s attention. It has a clear subject matter, that being the guitar. It is also in colours which direcly link to the company’s colours. The imagery used throughout the site relates to guitars, guitar tuition and the studio.
